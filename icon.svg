@@ -1,21 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <defs>
-    <linearGradient id="bg" x1="14" y1="10" x2="114" y2="120" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#242936"/>
-      <stop offset="1" stop-color="#13161d"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="28" y1="27" x2="103" y2="103" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#a78bfa"/>
-      <stop offset=".52" stop-color="#52b8e8"/>
-      <stop offset="1" stop-color="#ff6577"/>
-    </linearGradient>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
-      <feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#000" flood-opacity=".38"/>
-    </filter>
-  </defs>
-  <rect x="4" y="4" width="120" height="120" rx="34" fill="url(#bg)" stroke="#414857" stroke-width="4"/>
-  <path d="M34 29h58c12.2 0 22 9.8 22 22v27c0 12.2-9.8 22-22 22H68l-25 16 7-16H34c-12.2 0-22-9.8-22-22V51c0-12.2 9.8-22 22-22Z" fill="url(#accent)" filter="url(#shadow)"/>
-  <path d="M60 43h10l-1.8 30h-6.4L60 43Zm.2 42.2a6 6 0 1 1 12 0 6 6 0 0 1-12 0Z" fill="#fff"/>
-  <circle cx="108" cy="28" r="8" fill="#f0b45a" stroke="#15171b" stroke-width="4"/>
-  <circle cx="119" cy="44" r="4.5" fill="#ff6577" stroke="#15171b" stroke-width="3"/>
+  <path fill="#52b8e8" d="M5 29C5 12 16 3 31 3c15 0 25 9 25 23 0 12-6 18-14 23-5 4-7 7-7 14H22c0-12 4-18 12-24 5-4 8-7 8-12 0-6-4-10-11-10-8 0-13 5-13 14H5v-2Zm19 39h13l27 49-40-34V68Z"/>
+  <path fill="#f0b45a" d="M58 3h14l-3 59h-8L58 3Zm0 65h13l-7 49-6-49Z"/>
+  <path fill="#ff6577" d="m99 3-22 38h14L76 65h13l-25 52 52-65H99l17-49H99Z"/>
 </svg>
