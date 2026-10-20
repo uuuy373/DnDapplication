@@ -1,0 +1,17 @@
+{
+  "name": "СИГНАЛЫ",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Общие вопросы, заявки и реакции для больших столов Owlbear Rodeo.",
+  "author": "Meow",
+  "homepage_url": "https://uuuy373.github.io/DnDapplication/",
+  "icon": "/DnDapplication/icon.svg",
+  "background_url": "/DnDapplication/background.html",
+  "action": {
+    "title": "СИГНАЛЫ",
+    "icon": "/DnDapplication/icon.svg",
+    "popover": "/DnDapplication/",
+    "width": 360,
+    "height": 520
+  }
+}
